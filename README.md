@@ -1,4 +1,5 @@
 # NaviGPT
+Developer: [name]
 
 v0.0.2 
 
