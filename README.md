@@ -20,3 +20,13 @@ If this project helps or inspires you, please <img src="https://img.shields.io/g
 ## Abstract/Introduction:
 Assistive technologies for people with visual impairments (PVI) have made significant advancements, particularly with the integration of artificial intelligence (AI) and real-time sensor technologies. However, current solutions often require PVI to switch between multiple apps and tools for tasks like image recognition, navigation, and obstacle detection, which can hinder a seamless and efficient user experience. In this paper, we present NaviGPT, a high-fidelity prototype that integrates LiDAR-based obstacle detection, vibration feedback, and large language model (LLM) responses to provide a comprehensive and real-time navigation aid for PVI. Unlike existing applications such as Be My AI and Seeing AI, NaviGPT combines image recognition and contextual navigation guidance into a single system, offering continuous feedback on the user's surroundings without the need for app-switching. Meanwhile, NaviGPT compensates for the response delays of LLM by using location and sensor data, aiming to provide practical and efficient navigation support for PVI in dynamic environments.
 
+### Reference
+> @misc{zhang2024enhancingtravelexperiencepeople,
+      title={Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System}, 
+      author={He Zhang and Nicholas J. Falletta and Jingyi Xie and Rui Yu and Sooyeon Lee and Syed Masum Billah and John M. Carroll},
+      year={2024},
+      eprint={2410.04005},
+      archivePrefix={arXiv},
+      primaryClass={cs.HC},
+      url={https://arxiv.org/abs/2410.04005}, 
+}
