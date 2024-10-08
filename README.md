@@ -1,6 +1,6 @@
 # NaviGPT: A Real-Time AI-Driven Mobile Navigation System
 
-<img src="Logo-NaviGPT.png" height="160px" width="140px" />
+[<img src="Logo-NaviGPT.png" height="160px" width="140px" />](https://github.com/PSU-IST-CIL/NaviGPT/tree/main)
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 
