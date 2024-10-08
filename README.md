@@ -2,7 +2,7 @@
 
 [<img src="Logo-NaviGPT.png" height="160px" width="140px" />](https://github.com/PSU-IST-CIL/NaviGPT/tree/main)
 
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" />  ![](https://img.shields.io/badge/platform-iPhone_12_Pro_or_advanced_version_with_ios_17.0+-lightgrey.svg) ![](https://img.shields.io/badge/language-swift-orange.svg)
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" />  ![](https://img.shields.io/badge/platform-iPhone_12_Pro_or_advanced_version_with_ios_17.0+-lightgrey.svg) ![](https://img.shields.io/badge/language-swift-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/KindOPSTAR/QualiGPT/blob/main/LICENSE)
 
 If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/demo-repository" height="20px" width="155px" /> the repository and cite the relevant paper!
 
