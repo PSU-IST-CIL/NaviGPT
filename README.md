@@ -2,7 +2,7 @@
 
 <img src="Logo-NaviGPT.png" height="160px" width="140px" />
 
-#### Principal developers and maintainers of the repository: @PSU-IST-CIL/NaviGPT
+#### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 
 #### College of Information Sciences and Technology, Penn State University, University Park, Pennsylvania, USA
 
