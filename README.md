@@ -2,9 +2,9 @@
 
 [<img src="Logo-NaviGPT.png" height="160px" width="140px" />](https://github.com/PSU-IST-CIL/NaviGPT/tree/main)
 
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" /> 
+<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="22px" width="70px" /> 
 
-If this project helps or inspires you, please <img src="https://img.shields.io/github/stars/{PSU-IST-CIL}/{NaviGPT}.svg" height="20px" width="120px" /> the repository and cite the relevant paper!
+If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/demo-repository" height="20px" width="160px" /> the repository and cite the relevant paper!
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 
