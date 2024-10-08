@@ -1,5 +1,6 @@
 # NaviGPT: A Real-Time AI-Driven Mobile Navigation System
-![image](Logo-NaviGPT.png)
+
+<img src="Logo-NaviGPT.png" height="160px" width="140px" />
 
 Developer: [name]
 
