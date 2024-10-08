@@ -8,7 +8,7 @@ If this project helps or inspires you, please <img src="https://img.shields.io/g
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 ----
-## Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System [![arXiv](https://img.shields.io/badge/arXiv-410.04005-b31b1b.svg)](https://arxiv.org/abs/2410.04005)
+## Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System [![arXiv](https://img.shields.io/badge/arXiv-410.04005-b31b1b.svg)](https://arxiv.org/abs/2410.04005) [![HTML](https://img.shields.io/badge/HTML-b31b1b.svg)](https://arxiv.org/html/2410.04005v1)
 ### He Zhang<sup>α</sup>, Nicholas J. Falletta<sup>α</sup>, Jingyi Xie<sup>α</sup>, Rui Yu<sup>β</sup>, Sooyeon Lee<sup>γ</sup>, Syed Masum Billah<sup>α</sup>, John M. Carroll<sup>α</sup>
  <sup>α</sup> College of Information Sciences and Technology, Penn State University, University Park, Pennsylvania, USA
  
