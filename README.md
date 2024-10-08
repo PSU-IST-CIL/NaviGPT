@@ -1,4 +1,4 @@
-# NaviGPT
+# NaviGPT: A Real-Time AI-Driven Mobile Navigation System
 Developer: [name]
 
 v0.0.2 
