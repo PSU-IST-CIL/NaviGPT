@@ -4,7 +4,7 @@
 
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" />  ![](https://img.shields.io/badge/platform-iPhone_12_Pro_or_advanced_version_with_ios_17.0+-lightgrey.svg) ![](https://img.shields.io/badge/language-swift-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PSU-IST-CIL/NaviGPT/LICENSE)
 
-If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/demo-repository" height="20px" width="155px" /> the repository and cite the relevant paper!
+If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/NaviGPT" height="20px" width="155px" /> the repository and cite the relevant paper! The open source version will be released on date of Conference (GROUP '25).
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 ----
