@@ -7,7 +7,7 @@
 ![Language](https://img.shields.io/badge/language-Swift-orange.svg)
 [![License](https://img.shields.io/badge/license-CC_BY--NC_4.0-blue.svg)](https://github.com/PSU-IST-CIL/NaviGPT/blob/main/LICENSE)
 
-NaviGPT is now **fully open-source** 🎉. This real-time, AI-powered mobile navigation system is designed to assist people with visual impairments (PVI) by integrating LiDAR obstacle detection, vibration feedback, and large language model (LLM) guidance.
+NaviGPT is now **fully open-source**. This real-time, AI-powered mobile navigation system is designed to assist people with visual impairments (PVI) by integrating LiDAR obstacle detection, vibration feedback, and large language model (LLM) guidance.
 
 ~~If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/NaviGPT" height="20px" width="155px" /> the repository and cite the relevant paper! The open source version will be released on date of Conference (GROUP '25).~~
 
