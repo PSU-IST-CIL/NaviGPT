@@ -4,7 +4,40 @@
 
 <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" />  ![](https://img.shields.io/badge/platform-iPhone_12_Pro_or_advanced_version_with_ios_17.0+-lightgrey.svg) ![](https://img.shields.io/badge/language-swift-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PSU-IST-CIL/NaviGPT/LICENSE)
 
-If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/NaviGPT" height="20px" width="155px" /> the repository and cite the relevant paper! The open source version will be released on date of Conference (GROUP '25).
+NaviGPT is now **fully open-source**. You can locally deploy and test it on your iPhone with just a few simple steps.
+## 🚀 How to Build and Run Locally
+
+1. Download the folder `NaviGPT_build_from_here` to your local machine.
+2. Open the folder using **Xcode**.
+3. Connect your **iPhone device**.
+4. Press **Build** and deploy the app to your device.
+
+## 🔑 API Configuration (Required)
+
+We have removed the default API key for security reasons.
+
+To enable full functionality, please:
+
+1. Navigate to:
+NaviGPT_build_from_here → NaviGPT → llmManager.swift
+
+2. Locate **line 7**, which contains the placeholder:
+```swift
+let apiKey = "Input-Open-AI-API-Here"
+
+Replace it with your own OpenAI API key.
+
+## 📱 Notes on Deployment
+
+Once you complete the above steps and successfully deploy the app to your iPhone,  
+you may **disconnect your device from your Mac** — the app will continue to run as expected.
+
+Please note that since this is a **developer build**, iOS requires re-signing and rebuilding the app **after a limited period**.
+
+You are free to use and modify this open-source version under the terms of the license.
+
+
+~~If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/NaviGPT" height="20px" width="155px" /> the repository and cite the relevant paper! The open source version will be released on date of Conference (GROUP '25).~~
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
 ----
@@ -36,3 +69,20 @@ Please cite these papers in your publications if NaviGPT helps your research.
       url={https://arxiv.org/abs/2410.04005}, 
 }
 ```
+
+## 📄 License
+
+This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)** license.
+
+You are free to:
+
+- Share — copy and redistribute the material in any medium or format  
+- Adapt — remix, transform, and build upon the material
+
+**Under the following terms:**
+
+- **Attribution** — You must give appropriate credit and indicate any changes.  
+- **NonCommercial** — **Commercial use is strictly prohibited** without prior written permission.
+
+For full license details, please see the [LICENSE](./LICENSE) file or visit the [CC BY-NC 4.0 website](https://creativecommons.org/licenses/by-nc/4.0/).
+
