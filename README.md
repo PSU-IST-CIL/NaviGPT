@@ -1,29 +1,38 @@
 # NaviGPT: A Real-Time AI-Driven Mobile Navigation System
 
-[<img src="Logo-NaviGPT.png" height="160px" width="140px" />](https://github.com/PSU-IST-CIL/NaviGPT/tree/main)
+[<img src="Logo-NaviGPT.png" height="160px" width="140px" />](https://github.com/PSU-IST-CIL/NaviGPT)
 
-<img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" height="20px" width="70px" />  ![](https://img.shields.io/badge/platform-iPhone_12_Pro_or_advanced_version_with_ios_17.0+-lightgrey.svg) ![](https://img.shields.io/badge/language-swift-orange.svg) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/PSU-IST-CIL/NaviGPT/LICENSE)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
+![Platform](https://img.shields.io/badge/platform-iPhone_12_Pro_or_later_with_iOS_17.0+-lightgrey.svg)
+![Language](https://img.shields.io/badge/language-Swift-orange.svg)
+[![License](https://img.shields.io/badge/license-CC_BY--NC_4.0-blue.svg)](https://github.com/PSU-IST-CIL/NaviGPT/blob/main/LICENSE)
 
-NaviGPT is now **fully open-source**. You can locally deploy and test it on your iPhone with just a few simple steps.
+NaviGPT is now **fully open-source** 🎉. This real-time, AI-powered mobile navigation system is designed to assist people with visual impairments (PVI) by integrating LiDAR obstacle detection, vibration feedback, and large language model (LLM) guidance.
+
+---
+
 ## 🚀 How to Build and Run Locally
 
 1. Download the folder `NaviGPT_build_from_here` to your local machine.
 2. Open the folder using **Xcode**.
-3. Connect your **iPhone device**.
-4. Press **Build** and deploy the app to your device.
+3. Connect your **iPhone device** (iPhone 12 Pro or later).
+4. Press **Build** to deploy the app onto your iPhone.
+
+---
 
 ## 🔑 API Configuration (Required)
 
 We have removed the default API key for security reasons.
 
-To enable full functionality, please:
+To enable full functionality:
 
 1. Navigate to:
+
+
 NaviGPT_build_from_here → NaviGPT → llmManager.swift
 
 2. Locate **line 7**, which contains the placeholder:
-```swift
-let apiKey = "Input-Open-AI-API-Here"
+```let apiKey = "Input-Open-AI-API-Here"```
 
 Replace it with your own OpenAI API key.
 
@@ -59,14 +68,20 @@ Assistive technologies for people with visual impairments (PVI) have made signif
 ### Citation
 Please cite these papers in your publications if NaviGPT helps your research.
 ```
- @misc{zhang2024enhancingtravelexperiencepeople,
-      title={Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System}, 
-      author={He Zhang and Nicholas J. Falletta and Jingyi Xie and Rui Yu and Sooyeon Lee and Syed Masum Billah and John M. Carroll},
-      year={2024},
-      eprint={2410.04005},
-      archivePrefix={arXiv},
-      primaryClass={cs.HC},
-      url={https://arxiv.org/abs/2410.04005}, 
+@inproceedings{10.1145/3688828.3699636,
+author = {Zhang, He and Falletta, Nicholas J. and Xie, Jingyi and Yu, Rui and Lee, Sooyeon and Billah, Syed Masum and Carroll, John M.},
+title = {Enhancing the Travel Experience for People with Visual Impairments through Multimodal Interaction: NaviGPT, A Real-Time AI-Driven Mobile Navigation System},
+year = {2025},
+isbn = {9798400711879},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3688828.3699636},
+doi = {10.1145/3688828.3699636},
+pages = {29–35},
+numpages = {7},
+keywords = {AI-assisted tool, People with visual impairments, accessibility, disability, llm, mobile application, multimodal interaction, navigation, prototype},
+location = {Hilton Head, New Jersey, USA},
+series = {GROUP '25}
 }
 ```
 
