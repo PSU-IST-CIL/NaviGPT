@@ -9,43 +9,6 @@
 
 NaviGPT is now **fully open-source** 🎉. This real-time, AI-powered mobile navigation system is designed to assist people with visual impairments (PVI) by integrating LiDAR obstacle detection, vibration feedback, and large language model (LLM) guidance.
 
----
-
-## 🚀 How to Build and Run Locally
-
-1. Download the folder `NaviGPT_build_from_here` to your local machine.
-2. Open the folder using **Xcode**.
-3. Connect your **iPhone device** (iPhone 12 Pro or later).
-4. Press **Build** to deploy the app onto your iPhone.
-
----
-
-## 🔑 API Configuration (Required)
-
-We have removed the default API key for security reasons.
-
-To enable full functionality:
-
-1. Navigate to:
-
-
-NaviGPT_build_from_here → NaviGPT → llmManager.swift
-
-2. Locate **line 7**, which contains the placeholder:
-```let apiKey = "Input-Open-AI-API-Here"```
-
-Replace it with your own OpenAI API key.
-
-## 📱 Notes on Deployment
-
-Once you complete the above steps and successfully deploy the app to your iPhone,  
-you may **disconnect your device from your Mac** — the app will continue to run as expected.
-
-Please note that since this is a **developer build**, iOS requires re-signing and rebuilding the app **after a limited period**.
-
-You are free to use and modify this open-source version under the terms of the license.
-
-
 ~~If this project helps or inspires you, please <img src="https://img.shields.io/gitea/stars/PSU-IST-CIL/NaviGPT" height="20px" width="155px" /> the repository and cite the relevant paper! The open source version will be released on date of Conference (GROUP '25).~~
 
 #### Principal developers and maintainers of the repository: @[PSU-IST-CIL/NaviGPT](https://github.com/orgs/PSU-IST-CIL/teams/navigpt)
@@ -84,6 +47,31 @@ location = {Hilton Head, New Jersey, USA},
 series = {GROUP '25}
 }
 ```
+
+---
+## 🚀 How to Build and Run Locally
+
+1. Download the folder `NaviGPT_build_from_here` to your local machine.
+2. Open the folder using **Xcode**.
+3. Connect your **iPhone device** (iPhone 12 Pro or later).
+4. Press **Build** to deploy the app onto your iPhone.
+---
+## 🔑 API Configuration (Required)
+We have removed the default API key for security reasons.
+
+To enable full functionality:
+1. Navigate to:
+NaviGPT_build_from_here → NaviGPT → llmManager.swift
+2. Locate **line 7**, which contains the placeholder:
+```let apiKey = "Input-Open-AI-API-Here"```
+Replace it with your own OpenAI API key.
+
+## 📱 Notes on Deployment
+
+Once you complete the above steps and successfully deploy the app to your iPhone,  
+you may **disconnect your device from your Mac** — the app will continue to run as expected.
+Please note that since this is a **developer build**, iOS requires re-signing and rebuilding the app **after a limited period**.
+You are free to use and modify this open-source version under the terms of the license.
 
 ## 📄 License
 
